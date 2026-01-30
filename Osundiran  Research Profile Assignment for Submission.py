@@ -24,7 +24,7 @@ st.write("Maritime Supply Chain")
 st.write("University of South Africa")
 
 st.write("Dr Adeola Oluwatoyin Osundiran is a scholar in maritime logistics and supply chain management, with research interests in port efficiency, maritime supply chain performance, digital ports, and trade facilitation in Africa. Her work bridges academic research and policy, focusing on how technology and governance reforms can improve port competitiveness and regional trade integration. She has supervised postgraduate research at Master’s and PhD levels and contributes to capacity building in maritime transport, logistics, and supply chain education.")
-st.image("https://github.com/niyot31-sys/css_streamlit_2026/blob/main/Dr%20Mrs%20Adeola%20Oluwatoyin%20Osundiran.jpg")
+st.image("https://www.sanews.gov.za/sites/default/files/2012/images/news_story_template/202601/wschool.jpg")
 
 
 
@@ -42,3 +42,4 @@ st.header("Contact Information")
 email = "adeolaoluwatoyinosundiran@gmail.com"
 
 st.write(f"You can reach {name} at {email}.")
+
